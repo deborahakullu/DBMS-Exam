@@ -1,0 +1,16 @@
+Database refers to a coolection of organised data stored and accessed electronically. 
+Database management system refers to a software which is used to manage a database.
+SQL refers to a standard language for storing, manipulating and retrieving data.
+a foreign key is a field that is linked to the primary key of another table
+primary key is a field in a table that uniquely identifies each record in that table.
+
+Merits of using a database
+A database organises the data, it makes it easier to get what you are looking for.
+A Database stores information. it allows you to add, delete and modify data easily.
+A database is reliable and helps prevent data from being corrupted.
+a database allows you to manage large volume of data efficiently.
+A database is easy to use. You can be able to access from any where in the computer.
+
+Examples of relational database management systems
+
+Types of relationships in a database
